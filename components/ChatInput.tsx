@@ -62,6 +62,3 @@ export default function ChatInput({ onSubmit, disabled = false, placeholder = "T
     </div>
   );
 }
-
-
-
