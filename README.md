@@ -145,9 +145,7 @@ The application intelligently adapts to different user behaviors:
 - Custom question sets
 - Advanced topic detection using NLP
 
-## License
 
-MIT
 
 
 
