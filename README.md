@@ -136,7 +136,6 @@ The application intelligently adapts to different user behaviors:
 - Handles browser compatibility issues
 - Gracefully manages requests beyond capabilities
 
-See [DEMO_SCENARIOS.md](./DEMO_SCENARIOS.md) for detailed test scenarios.
 
 ## Future Enhancements
 
